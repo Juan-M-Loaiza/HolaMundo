@@ -1,1 +1,9 @@
 Juan Orrego
+
+para poder guardar los datos nuevos de lo que se escribió en el repositorio, debemos realizar el comando
+
+git commit -m "algún comentario"
+
+y para sincronizarlo con el github o el documento en la nube, escribimos
+
+git push origin main, y de esta manera nos quedaría sincronizado
