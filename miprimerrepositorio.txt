@@ -7,3 +7,7 @@ git commit -m "algún comentario"
 y para sincronizarlo con el github o el documento en la nube, escribimos
 
 git push origin main, y de esta manera nos quedaría sincronizado
+
+ahora, para importar un archivo ya existente y volverlo un repositorio en github debemos
+crear una repositorio en blanco y seguir las instrucciones de comandos de la opción 2
+para así estos comandos poenrlos en la consola de git bash
